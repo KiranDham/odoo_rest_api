@@ -138,6 +138,8 @@ class MyAPI(http.Controller):
             "partner_name": partner.name
         }
 
+#     Some changes made
+
 
 
 
